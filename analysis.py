@@ -21,12 +21,12 @@
 
 def question0():
     # This should be an integer greater than zero
-    hoursWorked = 0
+    hoursWorked = 5
     return hoursWorked
 
 def question2():
     answerDiscount = 0.9
-    answerNoise = 0.2
+    answerNoise = 0.0
     return answerDiscount, answerNoise
 
 def question3a():
